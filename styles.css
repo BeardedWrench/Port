@@ -25,7 +25,8 @@ time, mark, audio, video {
 }
 body{
     color:#fffdf9;
-    background-color: #26272a;
+    /*background-color: #26272a;*/
+    background-color:#615cc0;
 }
 a{
     color:#fffdf9;
